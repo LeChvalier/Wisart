@@ -6,3 +6,8 @@
 </p>
 
 [![Video demo](https://media.discordapp.net/attachments/763144350086856735/1127657722226167888/image.png?width=1203&height=676)](https://www.youtube.com/watch?v=9IjyiATolGo)
+
+
+<p>
+  Un jeune sorcier utilise un livre ancien afin d'apprendre de nouveaux sorts puissants. La foudre, la glace et le feu sont les magies qui sont à sa portée, mais il faut encore qu'il parvienne à les reproduire.
+</p>
